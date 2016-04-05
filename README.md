@@ -33,3 +33,7 @@ Running a Jupyter notebook in the synced folder of the virtual machine.
 cd /vagrant
 jupyter notebook --ip=0.0.0.0 --no-browser
 ```
+## Getting data for the demo
+The demo notebook uses the `wikispedia-paths-and-graph` dataset available from http://snap.stanford.edu/data/wikispeedia.html.
+
+Download `wikispeedia_paths-and-graph.tar.gz` and unzip it into the same directory as `networkit-demo.ipynb`.
