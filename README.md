@@ -6,7 +6,7 @@ The demo notebook uses the `wikispedia-paths-and-graph` dataset available from h
 Download `wikispeedia_paths-and-graph.tar.gz` and unzip it into the same directory as `networkit-demo.ipynb`.
 
 ## Installing networkit and requirements
-https://networkit.iti.kit.edu/api/DevGuide.html
+https://networkit.github.io/get_started.html
 ```
 sudo apt-get install python3-numpy python3-scipy python3-matplotlib python3-pandas python3-pip
 sudo pip3 install jupyter networkx tabulate cython
